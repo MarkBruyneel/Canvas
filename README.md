@@ -1,1 +1,2 @@
 This repository was created to put scripts for processing information from Canvas or checking files in Canvas, depending on what is needed.
+The Canvas test script uses Canvas links to check whether the file still exists in the Digital Learning Environment Canvas, without opening it or downloading it. The results are storedin the log file and can be used later to combine with other data. It only requires some basic access to Canvas.
